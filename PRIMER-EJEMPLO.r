@@ -1,4 +1,3 @@
-PRIMER EJEMPLO
 # Instalar y cargar el paquete eulerr
 if (!require(eulerr)) install.packages("eulerr", dependencies = TRUE)
 library(eulerr)
